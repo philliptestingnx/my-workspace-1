@@ -12,5 +12,6 @@
       "{workspaceRoot}/.github/workflows/ci.yml"
     ]
   },
-  "nxCloudId": "674dc1104b4427081210faa4"
+  "nxCloudId": "674dc54f2be77991fb50c5d0",
+  "nxCloudUrl": "https://staging.nx.app"
 }
